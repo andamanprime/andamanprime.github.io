@@ -1,4 +1,4 @@
-baseURL       = "http://www.andamanprime.com/"
+baseURL       = "http://andamanprime.pages.dev/"
 languageCode  = "en-us"
 title         = "Andaman Prime | Your Experience that Matters the Most"
 theme         = "roxo-hugo"
